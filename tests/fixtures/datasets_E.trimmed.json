@@ -1,0 +1,49 @@
+{
+ "Datasets": {
+  "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+  "Dataset": [
+   {
+    "DatasetCode": "MDDW",
+    "DatasetName": "Food and Diet: Diversity (MDD-W, Minimum Dietary Diversity for Women)",
+    "Topic": "Women of reproductive age (15-49 years) from 23 countries, disaggregated by geographic level (rural, urban).",
+    "DatasetDescription": "The Minimum Dietary Diversity for Women (MDD-W) statistics presented here were compiled by FAO's ESN Nutrition Assessmen",
+    "Contact": "Food and Agriculture Organization of the United Nations (FAO): Food and Nutrition Division (ESN)",
+    "Email": "nutrition-assessment@fao.org",
+    "DateUpdate": "2025-10-28T00:00:00",
+    "CompressionFormat": "zip",
+    "FileType": "csv",
+    "FileSize": "12KB",
+    "FileRows": 1223,
+    "FileLocation": "https://bulks-faostat.fao.org/production/Minimum_Dietary_Diversity_for_Women_(MDD-W)_Food_and_Diet_E_All_Data_(Normalized).zip"
+   },
+   {
+    "DatasetCode": "PA",
+    "DatasetName": "Discontinued archives and data series: Producer Prices (old series)",
+    "Topic": null,
+    "DatasetDescription": "This sub-domain contains data on Agriculture Producer Prices and Producer Price Indices collected no later than 1996. Th",
+    "Contact": "Food and Agriculture Organization of the United Nations (FAO): Statistics Division (ESS), Social and Economic Statistics Team",
+    "Email": "faostat@fao.org",
+    "DateUpdate": "1991-12-31T00:00:00",
+    "CompressionFormat": "zip",
+    "FileType": "csv",
+    "FileSize": "1086KB",
+    "FileRows": 139713,
+    "FileLocation": "https://bulks-faostat.fao.org/production/PricesArchive_E_All_Data_(Normalized).zip"
+   },
+   {
+    "DatasetCode": "QCL",
+    "DatasetName": "Production: Crops and livestock products",
+    "Topic": "FAO strives to provide data for all countries, and for all crops and livestock commodities in terms of production (prima",
+    "DatasetDescription": "Crop and livestock statistics are recorded for 278 products, covering the following categories: 1) CROPS PRIMARY: Cereal",
+    "Contact": "Food and Agriculture Organization of the United Nations (FAO): Statistics Division (ESS), Crops, Livestock and Food Statistics Team",
+    "Email": "faostat@fao.org",
+    "DateUpdate": "2025-12-31T00:00:00",
+    "CompressionFormat": "zip",
+    "FileType": "csv",
+    "FileSize": "33127KB",
+    "FileRows": 4209110,
+    "FileLocation": "https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data_(Normalized).zip"
+   }
+  ]
+ }
+}
