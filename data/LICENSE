@@ -1,0 +1,15 @@
+The contents of data/raw/ are FAOSTAT bulk downloads, © FAO, unchanged.
+
+They are licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.en), complemented by the FAO Statistical Database
+Terms of Use (https://www.fao.org/contact-us/terms/db-terms-of-use/en/): no use in promoting a commercial enterprise or suggesting FAO
+endorsement; data of third parties may carry other conditions; disputes go to UNCITRAL
+arbitration.
+
+Citation format required by FAO:
+
+  FAO. [year of last update]. [Name of database: Name of dataset]. [Accessed on DD Month YYYY]. [URL] Licence: CC-BY-4.0.
+
+Databases published before 30 November 2019 are not under a Creative Commons licence unless
+marked so (https://openknowledge.fao.org/handle/20.500.14283/cd7464en); the 3 domains with such a date are not included.
+
+The code of the repository this dataset was built from is MIT licensed.

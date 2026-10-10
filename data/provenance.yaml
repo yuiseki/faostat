@@ -1,0 +1,28 @@
+# Where this data comes from and what was done to it.
+
+source:
+  name: FAOSTAT bulk downloads
+  publisher: Food and Agriculture Organization of the United Nations (FAO)
+  portal: https://www.fao.org/faostat/en/
+  catalogue: https://bulks-faostat.fao.org/production/datasets_E.json  # Last-Modified Fri, 02 Oct 2026 08:16:55 GMT
+  versions: none. FAO overwrites in place; this dataset holds the newest run and follows upstream corrections.
+  licence:
+    applied: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.en) and the FAO Statistical Database Terms of Use (https://www.fao.org/contact-us/terms/db-terms-of-use/en/)
+    card: "license: cc-by-4.0"
+    attribution_required: true
+    policy_checked: https://openknowledge.fao.org/handle/20.500.14283/cd7464en
+    left_out_because_predating_2019_11_30:
+    - Food_Aid_Shipments_WFP_E_All_Data_(Normalized).zip
+    - Indicators_from_Household_Surveys_E_All_Data_(Normalized).zip
+    - PricesArchive_E_All_Data_(Normalized).zip
+  citation: >-
+    FAO. [year of last update]. [Name of database: Name of dataset]. [Accessed on 2026-10-04].
+    https://www.fao.org/faostat/en/ Licence: CC-BY-4.0.
+
+run:
+  date: 2026-10-04
+  domains_published: 66
+  domains_left_out: 3
+
+processing:
+  - none: the zips are as served, each checked against the sha256 in MANIFEST.json
