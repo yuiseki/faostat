@@ -17,7 +17,7 @@ tags:
 - land-use
 - forestry
 size_categories:
-- 10M<n<100M
+- 100M<n<1B
 ---
 
 # faostat
@@ -61,7 +61,7 @@ FAO's licensing policy (https://openknowledge.fao.org/handle/20.500.14283/cd7464
 30 November 2019 on, and says databases published before that date are not under a
 Creative Commons licence unless marked so. Three discontinued series have a catalogue
 `DateUpdate` before that date, and nothing in the catalogue marks them. They are not
-published here (they are in the collection repository's manifest):
+published here (`MANIFEST.json` still lists them, with the reason):
 
 - `Food_Aid_Shipments_WFP_E_All_Data_(Normalized).zip` (FA, Discontinued archives and data series: Food Aid Shipments (WFP); last update 2016-12-22, 31,114 rows)
 - `Indicators_from_Household_Surveys_E_All_Data_(Normalized).zip` (HS, Discontinued archives and data series: Indicators from Household Surveys (gender, area, socioeconomics); last update 2014-07-31, 148,620 rows)

@@ -58,7 +58,7 @@ tags:
 - land-use
 - forestry
 size_categories:
-- 10M<n<100M
+- 100M<n<1B
 ---
 
 # faostat
@@ -102,7 +102,7 @@ FAO's licensing policy ({POLICY}) puts its statistical databases under CC BY 4.0
 30 November 2019 on, and says databases published before that date are not under a
 Creative Commons licence unless marked so. Three discontinued series have a catalogue
 `DateUpdate` before that date, and nothing in the catalogue marks them. They are not
-published here (they are in the collection repository's manifest):
+published here (`MANIFEST.json` still lists them, with the reason):
 
 {out}
 
